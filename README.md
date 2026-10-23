@@ -51,10 +51,10 @@ flutter doctor
 
 ### 2. Ambil project dari GitHub
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPOSITORI.git
-cd NAMA-REPOSITORI
+git clone https://github.com/naylafarhani01-blip/uts_mobile.git
+cd uts_mobile
 ```
-> Ganti `USERNAME` dan `NAMA-REPOSITORI` dengan alamat repositori ini.
+
 
 ### 3. Pasang dependensi
 ```bash
